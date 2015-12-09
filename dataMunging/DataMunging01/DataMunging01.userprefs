@@ -1,0 +1,38 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataMunging01/DataMunging.cs">
+    <Files>
+      <File FileName="DataMunging01/DataMunging.cs" Line="32" Column="39" />
+      <File FileName="DataMunging01/DataMungingTest.cs" Line="10" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="DataMunging01" expanded="True">
+            <Node name="Properties" expanded="True" />
+            <Node name="DataMungingTest.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>myLine.Substring (0, pos)</Value>
+          <Value>line</Value>
+          <Value>myLine</Value>
+          <Value>day</Value>
+          <Value>myLine.Substring (pos, myLine.Length)</Value>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
